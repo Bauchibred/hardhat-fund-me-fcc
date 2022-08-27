@@ -1,11 +1,4 @@
 # Hardhat Fund Me
-
-This is a section of the Javascript Blockchain/Smart Contract FreeCodeCamp Course.
-
-*[⌨️ (10:00:48) Lesson 7: Hardhat Fund Me](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=36048s)*
-
-[Full Repo](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
-
 - [Hardhat Fund Me](#hardhat-fund-me)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
@@ -179,6 +172,8 @@ ETH/Polygon/Avalanche/etc Address: 0x9680201d9c93d65a3603d2088d125e955c73BD65
 [![Patrick Collins Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickalphac/)
 [![Patrick Collins Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@patrick.collins_58673/)
 
+
+MORE EXPLANATION FOR CODE
 
 Working with a deploy script can be overwhelming cause not all of our scripts are being save , so the easy option is to download a package that eases everything for us
 and this package is the hardhat deploy package
